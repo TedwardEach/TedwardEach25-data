@@ -1,0 +1,391 @@
+{
+  "stand": "2025-07-08",
+  "ligen": [
+    {
+      "name": "Premier League",
+      "vereine": [
+        {
+          "name": "Liverpool",
+          "kader": [
+            {
+              "name": "Florian Wirtz",
+              "position": "MF",
+              "nationalität": "GER"
+            },
+            {
+              "name": "Diogo Jota",
+              "position": "ST",
+              "nationalität": "POR"
+            }
+          ],
+          "transfers": [
+            {
+              "spieler": "Florian Wirtz",
+              "von": "Bayer Leverkusen",
+              "datum": "2025-06-20",
+              "gebühr": 116000000
+            }
+          ]
+        },
+        {
+          "name": "Manchester United",
+          "kader": [
+            {
+              "name": "Matheus Cunha",
+              "position": "ST",
+              "nationalität": "BRA"
+            },
+            {
+              "name": "Bruno Fernandes",
+              "position": "MF",
+              "nationalität": "POR"
+            }
+          ],
+          "transfers": [
+            {
+              "spieler": "Matheus Cunha",
+              "von": "Wolves",
+              "datum": "2025-06-12",
+              "gebühr": 62500000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bundesliga",
+      "vereine": [
+        {
+          "name": "Bayer Leverkusen",
+          "kader": [
+            {
+              "name": "Karim Bellarabi",
+              "position": "ST",
+              "nationalität": "GER"
+            },
+            {
+              "name": "Jonathan Tah",
+              "position": "DF",
+              "nationalität": "GER"
+            }
+          ],
+          "transfers": [
+            {
+              "spieler": "Jarell Quansah",
+              "von": "Liverpool",
+              "datum": "2025-07-02",
+              "gebühr": 35000000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Championship",
+      "vereine": [
+        {
+          "name": "Leeds United",
+          "kader": [
+            {
+              "name": "Joe Gelhardt",
+              "position": "ST",
+              "nationalität": "ENG"
+            }
+          ],
+          "transfers": [
+            {
+              "spieler": "Joe Gelhardt",
+              "von": "Sunderland",
+              "datum": "2025-07-01",
+              "gebühr": 5000000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "League One",
+      "vereine": [
+        {
+          "name": "Portsmouth",
+          "kader": [
+            {
+              "name": "Colby Bishop",
+              "position": "ST",
+              "nationalität": "ENG"
+            }
+          ],
+          "transfers": []
+        }
+      ]
+    },
+    {
+      "name": "League Two",
+      "vereine": [
+        {
+          "name": "Notts County",
+          "kader": [
+            {
+              "name": "Macaulay Langstaff",
+              "position": "ST",
+              "nationalität": "ENG"
+            }
+          ],
+          "transfers": []
+        }
+      ]
+    },
+    {
+      "name": "National League",
+      "vereine": [
+        {
+          "name": "Wrexham AFC",
+          "kader": [
+            {
+              "name": "Paul Mullin",
+              "position": "ST",
+              "nationalität": "ENG"
+            }
+          ],
+          "transfers": []
+        }
+      ]
+    },
+    {
+      "name": "2. Bundesliga",
+      "vereine": [
+        {
+          "name": "HSV",
+          "kader": [
+            {
+              "name": "Robert Glatzel",
+              "position": "ST",
+              "nationalität": "GER"
+            }
+          ],
+          "transfers": []
+        }
+      ]
+    },
+    {
+      "name": "3. Liga",
+      "vereine": [
+        {
+          "name": "Dynamo Dresden",
+          "kader": [
+            {
+              "name": "Stefan Kutschke",
+              "position": "ST",
+              "nationalität": "GER"
+            }
+          ],
+          "transfers": []
+        }
+      ]
+    },
+    {
+      "name": "La Liga",
+      "vereine": [
+        {
+          "name": "Real Madrid",
+          "kader": [
+            {
+              "name": "Vinícius Júnior",
+              "position": "ST",
+              "nationalität": "BRA"
+            },
+            {
+              "name": "Jude Bellingham",
+              "position": "MF",
+              "nationalität": "ENG"
+            }
+          ],
+          "transfers": []
+        }
+      ]
+    },
+    {
+      "name": "La Liga 2",
+      "vereine": [
+        {
+          "name": "Real Valladolid",
+          "kader": [
+            {
+              "name": "Shon Weissman",
+              "position": "ST",
+              "nationalität": "ISR"
+            }
+          ],
+          "transfers": []
+        }
+      ]
+    },
+    {
+      "name": "Serie A",
+      "vereine": [
+        {
+          "name": "Juventus",
+          "kader": [
+            {
+              "name": "Dušan Vlahović",
+              "position": "ST",
+              "nationalität": "SRB"
+            }
+          ],
+          "transfers": [
+            {
+              "spieler": "Jadon Sancho",
+              "von": "Manchester United",
+              "datum": "2025-07-03",
+              "gebühr": 25000000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Serie B",
+      "vereine": [
+        {
+          "name": "Palermo",
+          "kader": [
+            {
+              "name": "Brunori",
+              "position": "ST",
+              "nationalität": "ITA"
+            }
+          ],
+          "transfers": []
+        }
+      ]
+    },
+    {
+      "name": "Ligue 1",
+      "vereine": [
+        {
+          "name": "Paris Saint-Germain",
+          "kader": [
+            {
+              "name": "Ousmane Dembélé",
+              "position": "FW",
+              "nationalität": "FRA"
+            }
+          ],
+          "transfers": []
+        }
+      ]
+    },
+    {
+      "name": "Ligue 2",
+      "vereine": [
+        {
+          "name": "AS Saint-Étienne",
+          "kader": [
+            {
+              "name": "Jean-Philippe Krasso",
+              "position": "FW",
+              "nationalität": "CIV"
+            }
+          ],
+          "transfers": []
+        }
+      ]
+    },
+    {
+      "name": "Süper Lig",
+      "vereine": [
+        {
+          "name": "Galatasaray",
+          "kader": [
+            {
+              "name": "Mauro Icardi",
+              "position": "ST",
+              "nationalität": "ARG"
+            }
+          ],
+          "transfers": []
+        }
+      ]
+    },
+    {
+      "name": "Saudi Pro League",
+      "vereine": [
+        {
+          "name": "Al Nassr",
+          "kader": [
+            {
+              "name": "Cristiano Ronaldo",
+              "position": "ST",
+              "nationalität": "POR"
+            }
+          ],
+          "transfers": []
+        }
+      ]
+    },
+    {
+      "name": "Brasilien Serie A",
+      "vereine": [
+        {
+          "name": "Flamengo",
+          "kader": [
+            {
+              "name": "Gabriel Barbosa",
+              "position": "ST",
+              "nationalität": "BRA"
+            }
+          ],
+          "transfers": []
+        }
+      ]
+    },
+    {
+      "name": "Liga Profesional (Argentinien)",
+      "vereine": [
+        {
+          "name": "Boca Juniors",
+          "kader": [
+            {
+              "name": "Edinson Cavani",
+              "position": "ST",
+              "nationalität": "URU"
+            }
+          ],
+          "transfers": []
+        }
+      ]
+    },
+    {
+      "name": "Liga MX",
+      "vereine": [
+        {
+          "name": "Club América",
+          "kader": [
+            {
+              "name": "Henry Martín",
+              "position": "ST",
+              "nationalität": "MEX"
+            }
+          ],
+          "transfers": []
+        }
+      ]
+    },
+    {
+      "name": "Major League Soccer",
+      "vereine": [
+        {
+          "name": "Inter Miami",
+          "kader": [
+            {
+              "name": "Lionel Messi",
+              "position": "FW",
+              "nationalität": "ARG"
+            }
+          ],
+          "transfers": []
+        }
+      ]
+    }
+  ]
+}
